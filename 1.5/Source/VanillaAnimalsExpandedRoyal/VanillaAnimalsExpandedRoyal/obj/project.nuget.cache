@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUYZW/ifgCaxDJz2UM6q+M/5M0htLmgmBKlPbqE2ddXiGvFxuHpbEA+cv9gPE2xec6V5LpippvCioyZJC/6AoA==",
+  "success": true,
+  "projectFilePath": "E:\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.5\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\lib.harmony\\2.3.1.1\\lib.harmony.2.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
