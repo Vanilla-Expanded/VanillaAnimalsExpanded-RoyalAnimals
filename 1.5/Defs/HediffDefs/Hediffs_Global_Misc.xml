@@ -114,8 +114,8 @@
 		<description>Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected.</description>
 		<isBad>false</isBad>
 		<comps>
-			<li Class="HediffCompProperties">
-				<compClass>HediffComp_Invisibility</compClass>
+			<li Class="HediffCompProperties_Invisibility">
+				<visibleToPlayer>true</visibleToPlayer>
 			</li>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>2000~3000</disappearsAfterTicks>
