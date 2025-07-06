@@ -10,6 +10,7 @@
 			<ComfyTemperatureMin>-20</ComfyTemperatureMin>			
 			<MarketValue>475</MarketValue>
 			<FilthRate>4</FilthRate>
+			<Wildness>0.45</Wildness>
 		</statBases>
 
 		<race>
@@ -22,7 +23,7 @@
 			<baseHealthScale>0.75</baseHealthScale>
 			<baseHungerRate>0.28</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
-			<wildness>0.45</wildness>			
+						
 			<manhunterOnDamageChance>0</manhunterOnDamageChance>
 			<manhunterOnTameFailChance>0</manhunterOnTameFailChance>
 			<trainability>None</trainability>
@@ -120,7 +121,7 @@
 			</li>
 		</tools>
 		<modExtensions>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 
 				<statToAdd>
 					<li>VAERoy_PrimaryRole</li>

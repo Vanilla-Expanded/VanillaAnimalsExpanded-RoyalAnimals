@@ -12,6 +12,7 @@
 			<ComfyTemperatureMin>-8</ComfyTemperatureMin>
 			<ComfyTemperatureMax>50</ComfyTemperatureMax>
 			<FilthRate>4</FilthRate>
+			<Wildness>0.55</Wildness>
 		</statBases>
 		<tools>
 			<li>
@@ -63,7 +64,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<leatherDef>Leather_Heavy</leatherDef>
 			<trainability>Advanced</trainability>
-			<wildness>0.55</wildness>
+			
 			<nameOnTameChance>1</nameOnTameChance>
 			<nuzzleMtbHours>72</nuzzleMtbHours>
 			<manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>
@@ -96,7 +97,7 @@
 			<li>AnimalImperial</li>
 		</tradeTags>
 		<modExtensions>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 
 				<statToAdd>
 					<li>VAERoy_PrimaryRole</li>

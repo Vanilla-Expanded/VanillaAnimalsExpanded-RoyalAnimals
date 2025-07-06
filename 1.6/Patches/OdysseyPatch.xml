@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Odyssey</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "Swan"]/comps</xpath>
+					<value>
+						<li Class="VEF.AnimalBehaviours.CompProperties_BuildPeriodically">
+							<defOfBuilding>VAERoy_SwanNest</defOfBuilding>
+							<ticksToBuild>20000</ticksToBuild>
+							<onlyOneExistingPerPawn>true</onlyOneExistingPerPawn>
+							<ifBedAssignOwnership>true</ifBedAssignOwnership>
+							<maxBuildingsPerMap>100</maxBuildingsPerMap>
+							<onlyTamed>true</onlyTamed>
+							<checkForExistingEdifices>true</checkForExistingEdifices>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName = "Swan"]/description</xpath>
+					<value>
+						<description>One of the largest birds capable of flying, swans are often kept by royalty due to the beautiful nests of flowers they build for themselves. These nests have an extremely high beauty, but a swan will never build more than one.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Swans create their own sleeping spots that have extremely high beauty. These nests are auto-asigned to them as sleeping spots on creation.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationAddModExtension">
+					<xpath>Defs/ThingDef[defName = "Swan"]</xpath>
+					<value>
+						<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
+							<statToAdd>
+								<li>VAERoy_PrimaryRole</li>
+								<li>VAERoy_SecondaryRole</li>
+							</statToAdd>
+							<statValues>
+								<li>VAERoy_UtilityBuilding</li>
+								<li>VAERoy_EggLayer</li>
+							</statValues>
+							<statDescriptions>
+								<li>VAERoy_UtilityBuildingDesc</li>
+								<li>VAERoy_EggLayerDesc</li>
+							</statDescriptions>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName = "Peacock"]/description</xpath>
+					<value>
+						<description>Beautiful, majestic royal birds genetically altered to be able to bestow psychic energy onto people they nuzzle.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Peacocks will periodically nuzzle your colonists. This increases Psychic Sensitivity of the nuzzled person by 25% for 12 hours. This stacks up to 8 times, resulting in +200% Psychic sensitivity if nuzzled by 8 peacocks.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationAddModExtension">
+					<xpath>Defs/ThingDef[defName = "Peacock"]</xpath>
+					<value>
+						<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
+							<statToAdd>
+								<li>VAERoy_PrimaryRole</li>
+								<li>VAERoy_SecondaryRole</li>
+							</statToAdd>
+							<statValues>
+								<li>VAERoy_UtilityPsychic</li>
+								<li>VAERoy_EggLayer</li>
+							</statValues>
+							<statDescriptions>
+								<li>VAERoy_UtilityPsychicDesc</li>
+								<li>VAERoy_EggLayerDesc</li>
+							</statDescriptions>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName = "Quail"]/description</xpath>
+					<value>
+						<description>Royal poultry bred specifically for human consumption, quail meat is one of a kind, with a taste so succulent it turns any meal into a lavish meal.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Their extremely tasty meat instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations.</description>
+					</value>
+				</li>
+				<li Class="PatchOperationAddModExtension">
+					<xpath>Defs/ThingDef[defName = "Quail"]</xpath>
+					<value>
+						<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
+							<statToAdd>
+								<li>VAERoy_PrimaryRole</li>
+								<li>VAERoy_SecondaryRole</li>
+							</statToAdd>
+							<statValues>
+								<li>VAERoy_UtilityFood</li>
+								<li>VAERoy_EggLayer</li>
+							</statValues>
+							<statDescriptions>
+								<li>VAERoy_UtilityFoodDesc</li>
+								<li>VAERoy_EggLayerDesc</li>
+							</statDescriptions>
+						</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName = "Quail"]/race</xpath>
+					<value>
+						<useMeatFrom />
+						<specificMeatDef>VAERoy_QuailMeat</specificMeatDef>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

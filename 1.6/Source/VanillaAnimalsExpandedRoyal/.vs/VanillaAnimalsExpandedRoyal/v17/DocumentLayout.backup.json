@@ -3,10 +3,35 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VanillaAnimalsExpandedRoyal||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vanillaanimalsexpanded-royalanimals\\1.6\\source\\vanillaanimalsexpandedroyal\\vanillaanimalsexpandedroyal\\thinknodes\\thinknode_peacock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\thinknodes\\thinknode_peacock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vanillaanimalsexpanded-royalanimals\\1.6\\source\\vanillaanimalsexpandedroyal\\vanillaanimalsexpandedroyal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vanillaanimalsexpanded-royalanimals\\1.6\\source\\vanillaanimalsexpandedroyal\\vanillaanimalsexpandedroyal\\defofs\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\defofs\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\vanillaanimalsexpandedroyal\\staticcollectionsclass\\staticcollectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\staticcollectionsclass\\staticcollectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\vanillaanimalsexpandedroyal\\mapcomponents and gamecomponents\\mapcomponent_cranes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\mapcomponents and gamecomponents\\mapcomponent_cranes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\vanillaanimalsexpandedroyal\\harmony\\graphic_random_getcoloredversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\harmony\\graphic_random_getcoloredversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\vanillaanimalsexpandedroyal\\harmony\\genrecipe_makerecipeproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\harmony\\genrecipe_makerecipeproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\vanillaanimalsexpandedroyal\\harmony\\harmonyinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8281E4EE-FE39-4FAD-BA55-326503AE9284}|VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj|solutionrelative:vanillaanimalsexpandedroyal\\harmony\\harmonyinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VanillaAnimalsExpandedRoyal||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,15 +49,100 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternalDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\DefOfs\\InternalDefOf.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\DefOfs\\InternalDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\DefOfs\\InternalDefOf.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\DefOfs\\InternalDefOf.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:21:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ThinkNode_Peacock.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\ThinkNodes\\ThinkNode_Peacock.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\ThinkNodes\\ThinkNode_Peacock.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\ThinkNodes\\ThinkNode_Peacock.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\ThinkNodes\\ThinkNode_Peacock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:56:14.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticCollectionsClass.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\StaticCollectionsClass\\StaticCollectionsClass.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\StaticCollectionsClass\\StaticCollectionsClass.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\StaticCollectionsClass\\StaticCollectionsClass.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\StaticCollectionsClass\\StaticCollectionsClass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:44:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapComponent_Cranes.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\MapComponents and GameComponents\\MapComponent_Cranes.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\MapComponents and GameComponents\\MapComponent_Cranes.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\MapComponents and GameComponents\\MapComponent_Cranes.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\MapComponents and GameComponents\\MapComponent_Cranes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:43:58.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HarmonyInstance.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\HarmonyInstance.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\Harmony\\HarmonyInstance.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\HarmonyInstance.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\Harmony\\HarmonyInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:43:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graphic_Random_GetColoredVersion.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\Graphic_Random_GetColoredVersion.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\Harmony\\Graphic_Random_GetColoredVersion.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\Graphic_Random_GetColoredVersion.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\Harmony\\Graphic_Random_GetColoredVersion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:43:36.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenRecipe_MakeRecipeProducts.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\GenRecipe_MakeRecipeProducts.cs",
+              "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\Harmony\\GenRecipe_MakeRecipeProducts.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\Harmony\\GenRecipe_MakeRecipeProducts.cs",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\Harmony\\GenRecipe_MakeRecipeProducts.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:43:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "VanillaAnimalsExpandedRoyal",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj",
               "RelativeDocumentMoniker": "VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj*",
-              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj*",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaAnimalsExpanded-RoyalAnimals\\1.6\\Source\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj",
+              "RelativeToolTip": "VanillaAnimalsExpandedRoyal\\VanillaAnimalsExpandedRoyal.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-06T14:43:07.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T14:43:07.458Z"
             }
           ]
         }

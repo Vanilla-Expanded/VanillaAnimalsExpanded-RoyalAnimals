@@ -8,10 +8,9 @@ namespace VanillaAnimalsExpandedRoyal
 	public class ThinkNode_Peacock : ThinkNode_Conditional
 	{
 
-
 		protected override bool Satisfied(Pawn pawn)
 		{
-			if (pawn.def == InternalDefOf.VAERoy_Peacock && pawn.Faction == Faction.OfPlayerSilentFail)
+			if ((pawn.def.defName == "VAERoy_Peacock" || pawn.def.defName == "Peacock") && pawn.Faction == Faction.OfPlayerSilentFail)
 			{
 				return true;
 			}

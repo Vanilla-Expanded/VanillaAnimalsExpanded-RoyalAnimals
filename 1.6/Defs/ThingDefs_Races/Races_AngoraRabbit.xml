@@ -11,6 +11,7 @@
 			<MoveSpeed>6.0</MoveSpeed>
 			<MarketValue>85</MarketValue>
 			<ComfyTemperatureMin>-60</ComfyTemperatureMin>
+			<Wildness>0.6</Wildness>
 		</statBases>
 		<tools>
 			<li>
@@ -34,7 +35,7 @@
 			</li>
 		</tools>
 		<comps>
-			<li Class="AnimalBehaviours.CompProperties_ApplyHediffWhenBound">
+			<li Class="VEF.AnimalBehaviours.CompProperties_ApplyHediffWhenBound">
 				<hediffToApply>VAERoy_AngoraRabbitBonded</hediffToApply>
 				<applyHediffToBonded>true</applyHediffToBonded>
 				<hediffToApplyToBonded>VAERoy_AngoraRabbitBondedPawn</hediffToApplyToBonded>
@@ -53,7 +54,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<useLeatherFrom>Hare</useLeatherFrom>
 			<useMeatFrom>Hare</useMeatFrom>
-			<wildness>0.6</wildness>
+			
 			<trainability>Intermediate</trainability>
 			<petness>0.08</petness>
 			<mateMtbHours>8</mateMtbHours>
@@ -94,7 +95,7 @@
 			<li>AnimalImperial</li>
 		</tradeTags>
 		<modExtensions>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 
 				<statToAdd>
 					<li>VAERoy_PrimaryRole</li>

@@ -13,6 +13,7 @@
 			<LeatherAmount>36</LeatherAmount>
 			<ComfyTemperatureMin>-10</ComfyTemperatureMin>
 			<FilthRate>5</FilthRate>
+			<Wildness>0.4</Wildness>
 		</statBases>
 		<tools>
 			<li>
@@ -53,7 +54,7 @@
 				<eggLayIntervalDays>7</eggLayIntervalDays>
 				<eggCountRange>1</eggCountRange>
 			</li>
-			<li Class="AnimalBehaviours.CompProperties_BuildPeriodically">
+			<li Class="VEF.AnimalBehaviours.CompProperties_BuildPeriodically">
 				<defOfBuilding>VAERoy_SwanNest</defOfBuilding>
 				<ticksToBuild>20000</ticksToBuild>
 				<onlyOneExistingPerPawn>true</onlyOneExistingPerPawn>
@@ -72,7 +73,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<leatherDef>Leather_Bird</leatherDef>
 			<trainability>None</trainability>
-			<wildness>0.4</wildness>
+		
 			<roamMtbDays>7</roamMtbDays>
 			<manhunterOnTameFailChance>0.8</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.25</manhunterOnDamageChance>
@@ -111,7 +112,7 @@
 			<li>AnimalImperial</li>
 		</tradeTags>
 		<modExtensions>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 
 				<statToAdd>
 					<li>VAERoy_PrimaryRole</li>

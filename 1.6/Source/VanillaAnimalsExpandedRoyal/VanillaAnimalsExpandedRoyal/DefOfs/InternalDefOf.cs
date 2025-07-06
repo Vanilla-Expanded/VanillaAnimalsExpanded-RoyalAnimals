@@ -14,8 +14,6 @@ namespace VanillaAnimalsExpandedRoyal
 		}
 
 		public static ThingDef VAERoy_Crane;
-		public static ThingDef VAERoy_Peacock;
-		public static ThingDef VAERoy_Quail;
 		public static ThingDef VAERoy_Orangutan;
 
 		public static ThingDef VAERoy_QuailMeat;
