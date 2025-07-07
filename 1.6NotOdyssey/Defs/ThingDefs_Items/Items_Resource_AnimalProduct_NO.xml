@@ -25,7 +25,18 @@
 		</comps>
 	</ThingDef>
 
-	
+	<ThingDef ParentName="EggUnfertBase">
+		<defName>VAERoy_EggPeacockUnfertilized</defName>
+		<label>peacock egg (unfert.)</label>
+		<description>An unfertilized peacock egg. It can be eaten raw, but it's much, much better cooked.</description>
+		<graphicData>
+				<color>(243,237,237)</color>
+		</graphicData>
+		<statBases>
+			<MarketValue>7.0</MarketValue>
+			
+		</statBases>
+	</ThingDef>
 
 	<!-- Quail -->
 

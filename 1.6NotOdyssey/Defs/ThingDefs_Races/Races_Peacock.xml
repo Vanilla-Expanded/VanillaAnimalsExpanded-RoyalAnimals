@@ -60,6 +60,7 @@
 
 			<li Class="CompProperties_EggLayer">
 				<eggFertilizedDef>VAERoy_EggPeacockFertilized</eggFertilizedDef>
+				<eggUnfertilizedDef>VAERoy_EggPeacockUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>1.333</eggLayIntervalDays>
 				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>

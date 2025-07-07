@@ -61,6 +61,7 @@
 
 			<li Class="CompProperties_EggLayer">
 				<eggFertilizedDef>VAERoy_EggCraneFertilized</eggFertilizedDef>
+				<eggUnfertilizedDef>VAERoy_EggCraneUnfertilized</eggUnfertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>4</eggLayIntervalDays>
 				<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
