@@ -64,7 +64,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<leatherDef>Leather_Heavy</leatherDef>
 			<trainability>Advanced</trainability>
-			
+			<soundEating>Herbivore_Eat</soundEating>
 			<nameOnTameChance>1</nameOnTameChance>
 			<nuzzleMtbHours>72</nuzzleMtbHours>
 			<manhunterOnTameFailChance>0.05</manhunterOnTameFailChance>

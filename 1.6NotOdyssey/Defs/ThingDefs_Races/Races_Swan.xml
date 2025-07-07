@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
-
-
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>VAERoy_Swan</defName>
 		<label>swan</label>
@@ -73,7 +70,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<leatherDef>Leather_Bird</leatherDef>
 			<trainability>None</trainability>
-		
+			<soundEating>Bird_Eat</soundEating>
 			<roamMtbDays>7</roamMtbDays>
 			<manhunterOnTameFailChance>0.8</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.25</manhunterOnDamageChance>
@@ -105,7 +102,6 @@
 			<soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
 			<soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
-
 		</race>
 		<tradeTags>
 			<li>AnimalExotic</li>
@@ -113,11 +109,9 @@
 		</tradeTags>
 		<modExtensions>
 			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
-
 				<statToAdd>
 					<li>VAERoy_PrimaryRole</li>
-					<li>VAERoy_SecondaryRole</li>	
-
+					<li>VAERoy_SecondaryRole</li>
 				</statToAdd>
 				<statValues>
 					<li>VAERoy_UtilityBuilding</li>
@@ -127,10 +121,8 @@
 					<li>VAERoy_UtilityBuildingDesc</li>
 					<li>VAERoy_EggLayerDesc</li>
 				</statDescriptions>
-
 			</li>
 		</modExtensions>
-
 	</ThingDef>
 	<PawnKindDef ParentName="AnimalKindBase">
 		<defName>VAERoy_Swan</defName>
@@ -160,12 +152,10 @@
 						<offset>(0,0,-0.2)</offset>
 					</shadowData>
 				</bodyGraphicData>
-
 				<dessicatedBodyGraphicData>
 					<texPath>Things/Pawn/Animal/Swan/DessicatedSwan</texPath>
 					<drawSize>1.2</drawSize>
 				</dessicatedBodyGraphicData>
-
 			</li>
 			<li>
 				<bodyGraphicData>
@@ -176,16 +166,11 @@
 						<offset>(0,0,-0.2)</offset>
 					</shadowData>
 				</bodyGraphicData>
-
 				<dessicatedBodyGraphicData>
 					<texPath>Things/Pawn/Animal/Swan/DessicatedSwan</texPath>
 					<drawSize>1.5</drawSize>
 				</dessicatedBodyGraphicData>
-
 			</li>
 		</lifeStages>
 	</PawnKindDef>
-
-
-
 </Defs>

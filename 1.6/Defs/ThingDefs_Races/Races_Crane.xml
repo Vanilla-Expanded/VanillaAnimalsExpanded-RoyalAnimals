@@ -23,7 +23,7 @@
 			<baseHealthScale>1.5</baseHealthScale>
 			<baseHungerRate>0.225</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
-			
+			<soundEating>Bird_Eat</soundEating>
 			<herdMigrationAllowed>false</herdMigrationAllowed>			
 			<manhunterOnDamageChance>0.2</manhunterOnDamageChance>
 			<manhunterOnTameFailChance>0</manhunterOnTameFailChance>

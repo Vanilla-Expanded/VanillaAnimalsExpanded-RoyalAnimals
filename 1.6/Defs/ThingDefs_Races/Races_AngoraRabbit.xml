@@ -54,7 +54,7 @@
 			<foodType>VegetarianRoughAnimal</foodType>
 			<useLeatherFrom>Hare</useLeatherFrom>
 			<useMeatFrom>Hare</useMeatFrom>
-			
+			<soundEating>Rodent_Eat</soundEating>
 			<trainability>Intermediate</trainability>
 			<petness>0.08</petness>
 			<mateMtbHours>8</mateMtbHours>

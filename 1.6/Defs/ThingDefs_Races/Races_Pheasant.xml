@@ -24,7 +24,7 @@
 			<baseHealthScale>0.35</baseHealthScale>
 			<baseHungerRate>0.175</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
-				
+			<soundEating>Bird_Eat</soundEating>	
 			<manhunterOnDamageChance>0</manhunterOnDamageChance>
 			<manhunterOnTameFailChance>0</manhunterOnTameFailChance>
 			<trainability>None</trainability>

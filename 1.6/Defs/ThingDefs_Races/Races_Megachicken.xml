@@ -34,7 +34,7 @@
 			<leatherDef>Leather_Bird</leatherDef>
 			<useMeatFrom>Chicken</useMeatFrom>
 			<trainability>Advanced</trainability>
-			
+			<soundEating>Bird_Eat</soundEating>
 			<mateMtbHours>8</mateMtbHours>
 			<lifeExpectancy>20</lifeExpectancy>
 			<lifeStageAges>

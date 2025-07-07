@@ -86,7 +86,7 @@
 			<predator>true</predator>			
 			<baseHungerRate>0.3</baseHungerRate>
 			<foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
-			
+			<soundEating>PredatorLarge_Eat</soundEating>
 			<trainability>Advanced</trainability>
 			<manhunterOnTameFailChance>0.0</manhunterOnTameFailChance>
 			<manhunterOnDamageChance>0.0</manhunterOnDamageChance>
